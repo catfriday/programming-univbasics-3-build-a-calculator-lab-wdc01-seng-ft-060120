@@ -1,6 +1,6 @@
 def addition(num1,num2)
-  
-  puts #{5}+#{4}
+  num1+num2
+  puts sum(4,5)
 
 end
 
